@@ -1,0 +1,8 @@
+rootProject.name = 'source_repo'
+
+// settings.gradle
+rootProject.name = 'source_repo'
+sourceControl {
+}
+
+

@@ -15,9 +15,7 @@ apply plugin: "maven-publish"
 group = 'org.gradle'
 version = '0.2'
 
-dependencies {
-    compile gradleApi()
-}
+
 
 repositories {
     jcenter()
